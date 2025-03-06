@@ -1,0 +1,21 @@
+
+1)prospettiva di gioco: 2d isometrico 
+
+2)stile della mappa del gioco: medievale(castelli, foreste, caverne) con uno stile trasandato
+
+3)nemici: cavalieri, orchi, Dei, streghe, goblin, scheletri, darghi, idra, demoni, lich, mimc, gargoyle.
+
+4)scelta della maestria del personaggio principale: mago, guerriero, assasino.
+
+5)level system(solo leveling) pull system(random da un negozio)
+
+6)combattimento: guerriero: spadone, | assasino: doppi coltelli | mago: staffa |
+
+7)artefatti: stivali, anello, mantello, bandana, corona, guanti(csgo).
+
+8)reliquie: lacrime di zeus(ritornare in vita), clessidra del destino(uccide i nemici attorno al giocatore(animazione dei scadenza della clessidra)), cuore di drago (forza), pietra gargoyle (piu forte) ||ecc......
+
+9)pet secondo la classe: mago: lupo di ghiaccio | assasino: volpe oscura | guerriero: golem guardiano 
+
+10)storia: 
+    era stanco di essere stanco
