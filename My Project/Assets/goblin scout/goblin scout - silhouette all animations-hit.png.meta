@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      goblin scout - silhouette all animations-hit_0: 3239750690384796470
+      goblin scout - silhouette all animations-hit_1: 4562467834213405256
+      goblin scout - silhouette all animations-hit_2: -2217524275359625697
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
